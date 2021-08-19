@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/15 21:56:59.000.313,=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2021/08/19 09:35:17.000.741,=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2021/08/19 09:49:44.106,=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2021/08/19 09:50:52.616,F:\PROJET AVEC DELPHI\MGS_USER_001\SINGLE PROJECT -W\uSingleMain.fmx=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Unit4.fmx</Transaction>
+    <Transaction>2021/08/19 09:50:52.616,F:\PROJET AVEC DELPHI\MGS_USER_001\SINGLE PROJECT -W\uSingleMain.pas=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2021/08/19 09:51:14.442,F:\PROJET AVEC DELPHI\MGS_USER_001\SINGLE PROJECT -W\PSingle_w.dproj=C:\Users\New World\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="0525737073005732" Android="0525737073005732"/>
+	</ActiveMobileDevice>
+</BorlandProject>
