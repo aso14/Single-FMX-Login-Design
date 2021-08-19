@@ -11,6 +11,9 @@ Android Compilation
 -------------------------------------------------------
 FullScreen = true
 
+You can limit the resizing. I did not do it.
+
+-------------------------------------------------------
 If you need my services for the design of your applications, contact me by mail:
 silas.aiko@gmail.com
 
