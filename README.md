@@ -14,4 +14,6 @@ FullScreen = true
 If you need my services for the design of your applications, contact me by mail:
 silas.aiko@gmail.com
 
+Youtube Channel : https://youtu.be/zqBkZASZkHg
+
 I can't wait to see your HMI achievements with Delphi.
